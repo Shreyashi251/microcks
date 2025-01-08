@@ -53,10 +53,10 @@ paths:
                   value: '<Results>
   <DataSet>
     <Table>
-      <CustomerID>136470</CustomerID>
+      <CustomerID>1234567</CustomerID>
       <CustomerStatus>Active</CustomerStatus>
       <CustomerType>Agriculture</CustomerType>
-      <EmailAddress>achyuth@hotmail.com</EmailAddress>
+      <EmailAddress>shreyashi@mailinator.com</EmailAddress>
       <Address1>136470 addresss</Address1>
       <Address2></Address2>
       <Address3></Address3>
